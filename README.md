@@ -20,7 +20,7 @@ A página desenvolvida funciona como uma extensão do site oficial da Petrobras.
 A tela foi desenhada utilizando Figma. Para visualizar a interface, click no botão abaixo:
 <br>
 <br>
-<a href="https://www.figma.com/proto/IiWNiy7nXnphnE5xvudFe3/grupo36-portal-do-inovador?page-id=13%3A241&node-id=13%3A242&viewport=718%2C473%2C0.26&scaling=min-zoom](https://www.figma.com/proto/IiWNiy7nXnphnE5xvudFe3/grupo36-portal-do-inovador?page-id=13%3A241&node-id=13%3A242&viewport=718%2C473%2C0.26&scaling=min-zoom" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a href="https://www.figma.com/proto/IiWNiy7nXnphnE5xvudFe3/grupo36-portal-do-inovador?page-id=13%3A241&node-id=13%3A242&viewport=718%2C473%2C0.26&scaling=min-zoom](https://www.figma.com/proto/IiWNiy7nXnphnE5xvudFe3/grupo36-portal-do-inovador?page-id=13%3A241&node-id=13%3A242&viewport=718%2C473%2C0.26&scaling=min-zoom" target="_blank"><img src="https://img.shields.io/badge/Figma-0076C6?style=for-the-badge&logo=figma&logoColor=white"></a>
 
 <hr>
 
