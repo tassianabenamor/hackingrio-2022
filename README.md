@@ -25,7 +25,3 @@ Para visualizar o projeto no Figma, click no botão abaixo:
 <br>
 <br>
 <a href="https://www.figma.com/proto/IiWNiy7nXnphnE5xvudFe3/grupo36-portal-do-inovador?page-id=13%3A241&node-id=13%3A242&viewport=718%2C473%2C0.26&scaling=min-zoom](https://www.figma.com/proto/IiWNiy7nXnphnE5xvudFe3/grupo36-portal-do-inovador?page-id=13%3A241&node-id=13%3A242&viewport=718%2C473%2C0.26&scaling=min-zoom" target="_blank"><img src="https://img.shields.io/badge/Figma-0076C6?style=for-the-badge&logo=figma&logoColor=white"></a>
-
-<hr>
-
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8362809&assignment_repo_type=AssignmentRepo)
