@@ -10,11 +10,11 @@ Projeto desenvolvido para o desafio da ODS 9, Hacking.Rio 2022.
 Como podemos melhorar o engajamento visando acessar o mercado de maneira ampla e selecionar os melhores parceiros para desenvolver, testar e comercializar tecnologia. 
 O objetivo é aumentar a visibilidade, engajamento, acessibilidade que o site de <a href="https://tecnologia.petrobras.com.br/">Tecnologia e Inovação da Petrobras</a> possui. Tornar o processo mais eficiente, ágil e transparente;
 
-### Apresentação
+## Motivo
 
 A motivação da equipe foi fomentar a inovação por meio de projetos criados por pessoas físicas, sejam elas estudantes, profissionais da área de tecnologia ou entusiastas da inovação. A aplicação desenvolvida é um site, criado em HTML e CSS.
 
-### O Produto
+## O Produto
 
 O produto tem como objetivo ser um portal. Nele será possível cadastras ideias e projetos de mentes empreendedoras. O portal possui uma interface simples, apresentando os seguintes componentes: header, banner com call-to-action, breve texto explicando sobre o projeto, o formulário de cadastro de projetos, pequeno portfólio com cases de sucesso, newsletter e rodapé com redes sociais e informações sobre a Petrobras. 
 
