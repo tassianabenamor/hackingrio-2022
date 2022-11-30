@@ -29,7 +29,7 @@ As linguagens utulizadas foram:
 
 *Nenhum framework foi utilizado.*
 
-### Prototipação de Tela
+## Prototipação de Tela
 
 A página desenvolvida funciona como uma extensão do site oficial da Petrobras. Por essa razão, a identidade visual utilizada - incluindo cores, logos e ícones - são os mesmos observados no website da empresa. 
 
